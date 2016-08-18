@@ -1,8 +1,6 @@
 # WGR
 
 Chapters from the "Well-Grounded Rubyist" book.
-<<<<<<< HEAD
-=======
 
 The tasks are from the book in completion order.
 
@@ -31,4 +29,3 @@ PART 3 RUBY DYNAMICS
 13. OBJECT INDIVIDUATION
 14. CALLABLE AND RUNNABLE OBJECTS
 15. CALLBACKS, HOOKS, AND RUNTIME INTROSPECTION
->>>>>>> f994e61e10c775f68b91b3738481bd97f7b8140c
