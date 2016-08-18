@@ -1,8 +1,11 @@
 # Celsius-to-Fahrenheit temperature converter
-print "What is the temperature outside in celsius?"
-celsius = gets.chomp
+celsius = 100
 
 fahrenheit = (celsius.to_i * 9 / 5) + 32
 puts "The result is: "
 puts fahrenheit
-puts " . "
+puts "."
+
+print "The result is: "
+print fahrenheit
+print "."
